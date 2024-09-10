@@ -7,7 +7,7 @@ elif(c=="-"):
     print("subtraction of given number is: ",a-b)
 elif(c=="*"):
     print("Multiplication of given number is: ",a*b)
-elif(d=="/"):
+elif(c=="/"):
     print("Division of given number is: ",a/b)
 else:
     print("OOPS! Somthing Went Wrong.........")
