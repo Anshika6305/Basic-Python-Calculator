@@ -1,6 +1,6 @@
 a=int(input("Enter any number: "))
 b=int(input("Enter another number: "))
-c=input("Enter the operaation sign: ")
+c=input("Enter the operaational sign (+,-,*,/): ")
 if(c=="+"):
     print("Addition of given number is: ",a+b)
 elif(c=="-"):
